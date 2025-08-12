@@ -55,7 +55,7 @@ args = MockArgs(config)
 
 ip = args.ip
 if not args.silent:
-    lolpython.lol_py(text2art("domain92"))
+    lolpython.lol_py(text2art("domainmaker"))
     print("made with <3 by Cbass92")
     print("🔒 Tor Mode: ENABLED - All connections will go through Tor for anonymity")
     print("💡 Make sure Tor is running on port 9050 for this to work")
